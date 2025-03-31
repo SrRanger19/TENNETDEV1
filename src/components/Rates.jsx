@@ -1,9 +1,9 @@
 function Rates () {
     return(
         <div className="w-full h-auto grid grid-cols-1 col-span-12 mt-5 p-5 border-b-4 border-[#3c3934]">
-            <h1 className="text-2xl text-center">Venta FunghySoft (TRTS)</h1>
+            <h1 className="text-2xl text-center col-span-2 mb-4 font-semibold">Venta FunghySoft (TRTS)</h1>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                <div class="space-y-6">
+                <div class="space-y-6 bg-white p-5 rounded-lg shadow-lg">
                     <div>
                         <h2 class="text-xl font-semibold">Precio:</h2>
                         <ul class="list-disc pl-6">
